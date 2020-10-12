@@ -7,3 +7,7 @@ def subtract(x,y):
 
 def divide(x,y):
     pass
+
+
+def multiply(x,y):
+    pass
